@@ -1,0 +1,24 @@
+Start Again
+Quit
+Choose a test by pressing a number
+Choose a tempo by pressing a number
+Choose a test type by pressing a number
+Translate the notes in the test to number keys.
+Press a number key on each quarter beat. Choose from 0, 1, 2, 3 or 4
+One key-press per note
+Count in
+Test in progress
+Test complete
+Calculating results
+Number of correct presses
+Timing precision of correct presses
+Press A to take the test again
+Press R to try a different test
+Press Esc to quit
+mean deviation
+Excellent
+Good
+Average
+Below average
+Poor
+Press any key to start the count-in

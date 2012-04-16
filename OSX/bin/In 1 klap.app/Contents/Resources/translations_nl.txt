@@ -1,0 +1,24 @@
+Opnieuw beginnen
+Afsluiten
+Kies één test met één numerieke toets
+Kies één tempo met één numerieke toets
+Kies het soort test met één numerieke toets
+Vertaal de noten van de test in numerieke toetsen.
+Sla op elke tel één numerieke toets aan. Kies steeds uit 0, 1, 2, 3 of 4.
+Één toetsaanslag per noot
+Aftellen
+Bezig met de test
+Test voltooid
+Bezig met het berekenen van de resultaten
+Het aantal juiste aanslagen
+Timing van de juiste aanslagen
+Druk op A om de test opnieuw te doen
+Druk op R om één andere test te proberen
+Druk op Esc om af te sluiten
+gemiddelde afwijking
+Zeer goed
+Goed
+Gemiddeld
+Minder dan gemiddeld
+Slecht
+Druk op één toets om het aftellen voor de test te laten beginnen

@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1236448378 source:c:\of_prerelease_v0.06_win32_cb_fat\addons\ofxthread\src\ofxthread.cpp
+	"ofxThread.h"
+
+1236448378 c:\of_prerelease_v0.06_win32_cb_fat\addons\ofxthread\src\ofxthread.h
+	"ofConstants.h"
+	<process.h>
+	<pthread.h>
+	<semaphore.h>
+
+1236959240 c:\of_prerelease_v0.06_win32_cb_fat\libs\openframeworks\utils\ofconstants.h
+	<TargetConditionals.h>
+	<windows.h>
+	"GLee.h"
+	"glu.h"
+	<unistd.h>
+	"GLee.h"
+	<OpenGL/glu.h>
+	<ApplicationServices/ApplicationServices.h>
+	<unistd.h>
+	"GLee.h"
+	<GL/glu.h>
+	<stdio.h>
+	<stdarg.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<iomanip>
+
+1163465958 c:\of_prerelease_v0.06_win32_cb_fat\libs\glee\include\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1186948392 c:\of_prerelease_v0.06_win32_cb_fat\libs\glu\glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
